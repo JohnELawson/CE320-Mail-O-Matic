@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="M:/a  Year 3/ce320/group5/trunk/Mail-O-Matic/lib/sam.jar" />
+    <archive path="M:/a  Year 3/ce320/group5/trunk/Mail-O-Matic/lib/jtidy-8.0.jar" />
+    <archive path="M:/a  Year 3/ce320/group5/trunk/Mail-O-Matic/lib/junit-4.7.jar" />
+    <archive path="M:/a  Year 3/ce320/group5/trunk/Mail-O-Matic/lib/javax.mail.jar" />
+    <archive path="M:/a  Year 3/ce320/group5/trunk/Mail-O-Matic/lib/mail-1.4.1.jar" />
+    <archive path="M:/a  Year 3/ce320/group5/trunk/Mail-O-Matic/lib/SHEF-bin-2009-05-12.jar" />
+    <archive path="M:/a  Year 3/ce320/group5/trunk/Mail-O-Matic/lib/novaworx-syntax-0.0.7.jar" />
+  </library>
+</eclipse-userlibraries>
+
